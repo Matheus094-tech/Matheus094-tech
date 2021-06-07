@@ -43,7 +43,7 @@ Contatos:
 	
 	
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus094-tech&hide=php&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus094-tech&hide=php&langs_count=4&layout=compact)](https://github.com/Matheus094/github-readme-stats)
 	
 ![Estatísticas de Matheus no Github](https://github-readme-stats.vercel.app/api?username=Matheus094-tech&&show_icons=true&theme=radical&hide=prs,issues,contribs)
 	
