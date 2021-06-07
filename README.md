@@ -35,9 +35,9 @@ Contatos:
   <a/>
 </p>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciio95&hide=php&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus094-tech&hide=php&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 	
-![Estatísticas de Matheus no Github](https://github-readme-stats.vercel.app/api?username=fabriciio95&show_icons=true&theme=radical&hide=prs,issues,contribs)
+![Estatísticas de Matheus no Github](https://github-readme-stats.vercel.app/api?username=Matheus094-tech&show_icons=true&theme=radical&hide=prs,issues,contribs)
 	
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Matheus094-tech&" alt = "Matheus094-tech" /> </p>
