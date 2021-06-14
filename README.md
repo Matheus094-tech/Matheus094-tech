@@ -44,7 +44,5 @@ Contatos:
 	
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus094-tech&&show_icons=true&theme=highcontrast&&hide=php&langs_count=4&layout=compact)](https://github.com/Matheus094/github-readme-stats)
-	
-![Estatísticas de Matheus no Github](https://github-readme-stats.vercel.app/api?username=Matheus094-tech&show_icons=true,css&layout=compact&theme=dark)
-	
+		
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Matheus094-tech&&&show_icons=true&theme=gotham&" alt = "Matheus094-tech" /> </p>
