@@ -39,7 +39,8 @@ Contatos:
 </p>
 	
 	
-	
+	[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matheus094-tech)](https://github.com/anuraghazra/github-readme-stats)
+
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus094-tech&show_icons=true&theme=nord)
 
