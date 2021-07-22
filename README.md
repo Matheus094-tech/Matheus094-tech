@@ -1,7 +1,5 @@
 <h1 align="center">Olá, bem vindo ao github de Matheus Barbosa 👋</h1>
-<h3 align="center">Desenvolvedor Java Full Stack em formação</h3>
-
-- 📚 Estou atualmente participando do bootcamp desenvolvedor Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
+<h3 align="center">Desenvolvedor Java Full Stack em eterna formação</h3>
 
 Skills
 
